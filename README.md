@@ -1,7 +1,7 @@
 # TS-Academy-Capstone-Project
 **Dataset:** Telco Customer Churn 
 This project predicts telecom customer churn using:
-* Logistic Regression (baseline
+* Logistic Regression (baseline)
 * Random Forest(advanced)
 * Class imbaalance handling
 * Threshold tuning
